@@ -1,0 +1,190 @@
+# Поисковые запросы — HAPP
+
+HAPP — имя этого репозитория и Windows-сборки Zapret/WinDivert. Включает стратегии запуска, служебные инструменты, IPSet и диагностику сетевого доступа к поддерживаемым ресурсам.
+
+- HAPP для Windows
+- happ github, скачать happ windows, happ zapret, happ установка
+- happ
+- happ github
+- happ скачать
+- happ windows скачать
+- happ программа windows
+- happ zapret github
+- happ discord github
+- happ telegram web
+- happ youtube windows
+- happ настройка
+- happ инструкция
+- happ release
+- happ 1.7.7
+- zapret windows скачать
+- zapret для windows 10
+- zapret для windows 11
+- zapret github
+- zapret windows github
+- zapret winws windows
+- zapret windivert
+- windivert windows
+- winws.exe zapret
+- zapret настройка windows
+- zapret инструкция windows
+- zapret установка windows
+- zapret стратегии simple fake
+- zapret стратегия alt
+- zapret fake tls
+- zapret dpi
+- обход dpi windows
+- dpi bypass windows
+- dpi обход github
+- secure dns windows
+- dns over https windows 11
+- настроить secure dns
+- ipset zapret
+- game filter zapret
+- zapret диагностика
+- zapret не работает
+- zapret ошибка запуска
+- zapret обновление ipset
+- zapret hosts file
+- discord zapret
+- zapret discord
+- discord zapret github
+- zapret discord github
+- discord windows zapret
+- discord voice zapret
+- discord rtc fix
+- discord voice connection
+- discord connecting fix
+- discord rtc подключение
+- discord бесконечное подключение
+- discord голосовой чат не подключается
+- discord не работает windows
+- discord не подключается к голосовому каналу
+- discord ошибка rtc connecting
+- discord voice windows 10
+- discord voice windows 11
+- discord web app connection
+- discord cache clear
+- discord очистить кэш
+- youtube zapret
+- zapret youtube
+- youtube zapret github
+- youtube windows zapret
+- youtube не работает windows
+- youtube медленно загружается
+- youtube тормозит windows
+- youtube buffering fix
+- youtube playback fix
+- youtube connection problem windows
+- youtube secure dns
+- youtube dns over https
+- youtube dpi обход
+- youtube blocked windows fix
+- youtube видео не загружается
+- youtube отключить блокировщик рекламы
+- telegram zapret
+- zapret telegram
+- telegram web zapret
+- telegram web windows
+- telegram web не работает
+- telegram web не открывается
+- telegram hosts file
+- telegram обновить hosts
+- telegram desktop proxy
+- tg ws proxy
+- telegram desktop не подключается
+- telegram proxy windows
+- telegram web connection fix
+- telegram бесконечное подключение
+- telegram windows 10
+- telegram windows 11
+- telegram github zapret
+- happ windows
+- happ установка windows
+- happ последняя версия
+- happ zapret windows
+- happ discord
+- happ youtube
+- happ telegram
+- happ secure dns
+- happ windivert
+- happ ipset
+- happ game filter
+- happ service bat
+- happ general bat
+- скачать happ для windows
+- HAPP Windows GitHub
+- HAPP Zapret
+- HAPP Discord voice
+- HAPP YouTube fix
+- HAPP установка
+- HAPP обновление
+- Windows сетевые проблемы
+- Windows подключение Discord
+- Windows подключение Telegram Web
+- Windows YouTube не загружается
+- интернет работает не все сайты
+- провайдер ограничивает доступ сайты
+- проверка сетевых стратегий windows
+- проверить zapret стратегии
+- WinDivert антивирус предупреждение
+- WinDivert64.sys Windows
+- Secure DNS Chrome
+- Secure DNS Firefox
+- Secure DNS Windows 11
+- hosts файл Telegram Web
+- IPSet фильтр Windows
+- Game Filter UDP TCP
+- zapret без vpn
+- скачать discord для windows
+- discord windows 10
+- discord windows 11
+- discord не работает
+- discord не подключается
+- discord github
+- zapret discord windows
+- скачать youtube для windows
+- youtube windows 10
+- youtube windows 11
+- youtube не работает
+- youtube не подключается
+- youtube github
+- zapret youtube windows
+- скачать telegram для windows
+- telegram не работает
+- telegram не подключается
+- telegram github
+- zapret telegram windows
+- скачать discord voice для windows
+- discord voice не работает
+- discord voice не подключается
+- discord voice github
+- zapret discord voice windows
+- скачать discord rtc для windows
+- discord rtc windows 10
+- discord rtc windows 11
+- discord rtc не работает
+- discord rtc не подключается
+- discord rtc github
+- discord rtc zapret
+- zapret discord rtc windows
+- скачать telegram web для windows
+- telegram web windows 10
+- telegram web windows 11
+- telegram web не подключается
+- telegram web github
+- zapret telegram web windows
+- скачать telegram desktop для windows
+- telegram desktop windows 10
+- telegram desktop windows 11
+- telegram desktop не работает
+- telegram desktop github
+- telegram desktop zapret
+- zapret telegram desktop windows
+- скачать youtube windows для windows
+- youtube windows windows 10
+- youtube windows windows 11
+- youtube windows не работает
+- youtube windows не подключается
+- youtube windows github
+- zapret youtube windows windows
